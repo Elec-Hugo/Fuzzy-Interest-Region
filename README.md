@@ -11,6 +11,6 @@ The other files including:
 ....
 must be copyed in "\PhaseBasedRelease_20131023\Release\data" . 
 
-OpenCV is used for ORB feature extraction so it must be installed on your matlab.
+In this papre OpenCV is used to ORB feature extraction so it must be installed on your matlab.
 
 
