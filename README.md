@@ -13,6 +13,6 @@ must be copyed in "\PhaseBasedRelease_20131023\Release\data".
 
 In this papre OpenCV is used to ORB feature extraction so it must be installed on your matlab.
 
-The  video used for motion magnification must be placed in "\PhaseBasedRelease_20131023\Release\data" and its  name  must be set at the beginning of "reproduceResultsSiggraph13.m".
+The  video used for motion magnification must be placed in "\PhaseBasedRelease_20131023\Release\data" and its  name  must be set at  21th line of "reproduceResultsSiggraph13.m".
 
 
